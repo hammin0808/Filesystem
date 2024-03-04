@@ -1,1 +1,1 @@
-Implementing Linux commands in a c-language environment
+Implementing Linux Commands in a C-language Environment
